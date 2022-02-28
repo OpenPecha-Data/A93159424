@@ -1,0 +1,19 @@
+segment_sources:
+  PF43CAF89:
+    type: origin_type
+    relation: translation
+    language: en
+  PEEEF5601:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  d7e29171534b41729182faa56f51019c:
+    PF43CAF89: 05fe646bb85f481ca9af157f911aded6
+    PEEEF5601: 85a2f107bde54c64ab245eaeabffccf0
+  4d7b5eb000494a44b4ff2cd6645292f6:
+    PF43CAF89: 71ffe59fcd69498f8e1395172690a3df
+    PEEEF5601: d3b3e790860d400f9cd8a4b9a61850b5
+  1c595fcb40934ea190b2781922b007df:
+    PF43CAF89: add685a2c7784151af2d9848b4468c66
+    PEEEF5601: 9e10d8348f13429288789a1fc689af1c
